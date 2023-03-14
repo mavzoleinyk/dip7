@@ -6,72 +6,72 @@
     <div class="rewiews-contents row">
         <div class="col-md-4">
             <div class="rewiews-item">
-            <div class="rewiews-name">Константин</div>
-            <div class="rewiews-date">15.03.22</div>
-            <div class="rewiews-title">Можно найти любой диплом для любого ВУЗа России, в том числе и для ликвидированного - так любая проверка подтвердит его подлинность, знаю по своему опыту и рекомендую этот вариант</div>
+            <div class="rewiews-name">Алина</div>
+            <div class="rewiews-date">03.03.22</div>
+            <div class="rewiews-title">Заказывала здесь аттестат об окончании 11 класса. Сделали все очень быстро, качественно, аттестат как настоящий.</div>
         </div>
         </div>
         <div class="col-md-4">
             <div class="rewiews-item">
-            <div class="rewiews-name">Анфиса</div>
-            <div class="rewiews-date">25.06.22</div>
-            <div class="rewiews-title">Большое спасибо за то, что решили мои проблемы с отсутствием диплома. Сервис рекомендую, качественный и недорогой!</div>
+            <div class="rewiews-name">Олег</div>
+            <div class="rewiews-date">06.03.22</div>
+            <div class="rewiews-title">Хорошая компания, где можно быстро заказать документ об образовании. Цены приемлемые, заказы выполняют в короткие сроки. </div>
         </div>
         </div>
         <div class="col-md-4">
             <div class="rewiews-item">
-            <div class="rewiews-name">Александра</div>
-            <div class="rewiews-date">20.07.22</div>
-            <div class="rewiews-title">Работают быстро, без задержек. Были вопросы по доставке, но спецы всё решили и документ приехал без проблем и даже быстрее, чем ожидалось</div>
+            <div class="rewiews-name">Кристина</div>
+            <div class="rewiews-date">10.03.22</div>
+            <div class="rewiews-title">Здесь купила аттестат для сына, у него были определенные проблемы с его получением. Могу сказать, что качество документа действительно на высоте, трудно отличить от настоящего.</div>
         </div>
         </div>
         <div class="col-md-4">
             <div class="rewiews-item">
-            <div class="rewiews-name">Виктор</div>
-            <div class="rewiews-date">10.04.22</div>
-            <div class="rewiews-title">Диплом специалиста сделали быстро, итого через неделю после заказа получил документ. Всё на высшем уровне, быстро и качественно.</div>
-        </div>
-        </div>
-        <div class="col-md-4">
-            <div class="rewiews-item">
-            <div class="rewiews-name">Валентина</div>
-            <div class="rewiews-date">05.04.22</div>
-            <div class="rewiews-title">В своё время по ряду причин диплом о вышке не получила, поэтому решила наверстать с помощью этой компании. Всё сделали в лучшем виде.</div>
+            <div class="rewiews-name">Сергей</div>
+            <div class="rewiews-date">16.03.22</div>
+            <div class="rewiews-title">В свое время вышло так, что я не получил аттестат за 11 класс. А вот идти в вечернюю школу нет особенного желания, да времени нет. Поэтому решил купить аттестат об окончании 11 класса в этой компании. Сделали все быстро, качественно.</div>
         </div>
         </div>
         <div class="col-md-4">
             <div class="rewiews-item">
             <div class="rewiews-name">Василий</div>
-            <div class="rewiews-date">08.03.22</div>
-            <div class="rewiews-title">По поводу дипломов обошёл не одну компанию, но остановился на этой, где не требуют предоплаты, да ещё и проводят понятные консультации. Рекомендую.</div>
+            <div class="rewiews-date">22.03.22</div>
+            <div class="rewiews-title">Компания неплохая, в сжатые сроки делает документы об образовании, которые не так просто на вид отличить от настоящих.</div>
         </div>
         </div>
         <div class="col-md-4">
             <div class="rewiews-item">
-            <div class="rewiews-name">Анна</div>
-            <div class="rewiews-date">05.07.22</div>
-            <div class="rewiews-title">Заказывала тут аттестат за 11 классов и диплом, получила скидку за несколько документов и отлично сэкономила, рекомендую.</div>
-        </div>
-        </div>
-        <div class="col-md-4">
-            <div class="rewiews-item">
-            <div class="rewiews-name">Юрий</div>
-            <div class="rewiews-date">06.07.22</div>
-            <div class="rewiews-title">На работе начались проверки, поэтому срочно заказал диплом и без проблем её прошёл. </div>
+            <div class="rewiews-name">Светлана</div>
+            <div class="rewiews-date">03.04.22</div>
+            <div class="rewiews-title">Заказывала аттестат об окончании 9 класса. Документ действительно хорошего качества, на вид как настоящий.</div>
         </div>
         </div>
         <div class="col-md-4">
             <div class="rewiews-item">
             <div class="rewiews-name">Анастасия</div>
-            <div class="rewiews-date">10.08.22</div>
-            <div class="rewiews-title">Большое спасибо менеджерам, которые провели консультацию и ответили на все вопросы, заказал диплом и ни о чём не жалею.</div>
+            <div class="rewiews-date">18.04.22</div>
+            <div class="rewiews-title">Специалисты этой компании умеют делать очень правдоподобные документы об образовании. Они учитывают все мельчайшие детали.</div>
+        </div>
+        </div>
+        <div class="col-md-4">
+            <div class="rewiews-item">
+            <div class="rewiews-name">Игорь</div>
+            <div class="rewiews-date">23.04.22</div>
+            <div class="rewiews-title">Заказывал в этой компании аттестат, получил быстро, по деньгам вышло относительно недорого.</div>
+        </div>
+        </div>
+        <div class="col-md-4">
+            <div class="rewiews-item">
+            <div class="rewiews-name">Ирина</div>
+            <div class="rewiews-date">27.04.22</div>
+            <div class="rewiews-title">На этой статье можно быстро заказать аттестаты за 9 и 11 класс. Кстати, специалисты компании могут сделать даже аттестат советского образца, который будет точно как настоящий. </div>
         </div>
         </div>
         <div class="col-md-4">
         <div class="rewiews-item">
-            <div class="rewiews-name">Максим</div>
-            <div class="rewiews-date">14.06.22</div>
-            <div class="rewiews-title">Понравилось, что не нужно оставлять предоплату, всё делают быстро и оплачиваешь уже после доставки. Очень честно по отношению к клиентам.</div>
+            <div class="rewiews-name">Анатолий</div>
+            <div class="rewiews-date">05.05.22</div>
+            <div class="rewiews-title">Хорошая компания, делают документы натурально, быстро, недорого.</div>
         </div>
         </div>
     </div>

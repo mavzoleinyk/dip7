@@ -68,6 +68,10 @@ This is the child theme for Total theme, generated with Generate Child Theme plu
     line-height: 24px;
 }
 
+.wpcf7-form #document_calk p{
+    font-size: 13px!important;
+}
+
 /* Custom elements */
 .btn-solid{
     background: #0ea5e9;

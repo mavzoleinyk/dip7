@@ -38,20 +38,17 @@ get_header(); ?>
             <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/img-etaps.png" alt="Пункты для оформления заказа диплома в Москве с доставкой">
           </div>
         </section>
-
-        <?php //if( is_page(23) ) : get_template_part('parts/section', 'rewiewsall'); endif;?>
-        <?php get_template_part('parts/section', 'number'); ?>
+        <?php if( is_page(214) ) : get_template_part('parts/section', 'rewiewsall'); endif;?>
         <?php get_template_part('parts/section', 'team'); ?>
-        <?php if( is_page(10) ) : get_template_part('parts/section', 'info'); endif;?>
-        <?php if( is_page(10) ) : get_template_part('parts/section', 'fishka'); endif;?>
-        <?php if( is_page(10) ) : get_template_part('parts/section', 'advantage'); endif;?>
-        <?php if( is_page(10) ) : get_template_part('parts/section', 'vuz'); endif;?>
-        <?php if( is_page(10) ) : get_template_part('parts/section', 'skills'); endif;?>
-        <?php if( !is_page(10) ) : get_template_part('parts/section', 'product'); endif;?>  
-        
-        <?php if( !is_page(8164) ) : get_template_part('parts/section', 'lastanswer'); endif;?>
-        <?php if( !is_page(23) ) : get_template_part('parts/section', 'rewiews'); endif;?>
-        <?php //get_template_part('parts/section', 'question'); ?>
+        <?php get_template_part('parts/section', 'info'); ?>
+        <?php get_template_part('parts/section', 'fishka'); ?>
+        <?php if( is_page(270) ) : get_template_part('parts/section', 'advantage'); endif;?>
+        <?php if( is_page(270) ) : get_template_part('parts/section', 'vuz'); endif;?>
+        <?php if( is_page(270) ) : get_template_part('parts/section', 'skills'); endif;?>
+        <?php if( is_page(270) ) : get_template_part('parts/section', 'number'); endif;?>
+        <?php get_template_part('parts/section', 'product'); ?>  
+        <?php get_template_part('parts/section', 'lastanswer'); ?>
+        <?php if( !is_page(214) ) : get_template_part('parts/section', 'rewiews'); endif;?>
 
       </article> <!-- end standard post -->
 

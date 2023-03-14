@@ -5,23 +5,23 @@
     </div>
     <div class="question-content">
         <div class="question-item color-violet">
-            <div class="question-title">Существует ли так называемые “единый реестр дипломов России” и можно ли по нему проверить тот или иной диплом?</div>
+            <div class="question-title">Через сколько времени после заказа можно будет получить аттестат?</div>
         </div>
         <div class="question-item color-violet">
-            <div class="question-title">Насколько важна проверка диплома на работе?</div>
+            <div class="question-title">У меня есть аттестат, но приложение к нему потерял. Можно купить только приложение?</div>
         </div>
         <div class="question-item color-violet">
-            <div class="question-title">Какую информацию можно выбрать при заказе диплома? Возможно ли изменить оценки, вписать любую специальность или ВУЗ?</div>
+            <div class="question-title">Я живу в Уфе. Вы сможете доставить заказ в мой город?</div>
         </div>
         <div class="question-item color-violet">
-            <div class="question-title">Изготавливаете ли вы дипломы государственного образца?</div>
+            <div class="question-title">Какие гарантии того, что документ будет получен, вы даете?</div>
         </div>
         <div class="question-item color-violet">
-            <div class="question-title">Можно ли приобрести диплом о высшем образовании не на прошедшее время, а на будущее?</div>
+            <div class="question-title">Во сколько обойдется аттестат у вас?</div>
         </div>
         <div class="question-item color-violet">
-            <div class="question-title">Какие гарантии предоставляет ваша компания при покупке?</div>
+            <div class="question-title">В документе опечатка, как быть?</div>
         </div>
     </div>
-    <a href="/faq/" class="btn-solid">Смотреть все вопросы</a>
+    <a href="/vopros-otvet/" class="btn-solid">Смотреть все вопросы</a>
 </section>

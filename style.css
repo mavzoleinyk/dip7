@@ -11,6 +11,13 @@ This is the child theme for Total theme, generated with Generate Child Theme plu
 */
 
 /* Custom style theme */
+.blog-entry.large-image-entry-style{
+    max-width: 100%;
+}
+.single__h1{
+    padding: 20px 15px;
+    font-size: 36px;
+}
 .top-header{
     display: flex;
     align-items: center;
@@ -255,18 +262,18 @@ This is the child theme for Total theme, generated with Generate Child Theme plu
     position: relative;
 }
 .info-posts-container{
-    position: relative;
     border-radius: 15px;
     padding: 30px;
+    background-color: #fff;
 }
 .info-posts-container:first-of-type{
     margin-bottom: 25px;
 }
 .info-posts-container p{
-    margin-bottom: 0;
-    font-size: 21px;
-    color: #fff;
-    line-height: 31px;
+    margin-bottom: 10px!important;
+    font-size: 16px!important;
+    color: #54555E!important;
+    line-height: 21px!important;
 }
 .info-posts-container p span{
     display: block;
@@ -381,26 +388,6 @@ This is the child theme for Total theme, generated with Generate Child Theme plu
 }
 .team-social{
     font-size: 16px;
-}
-
-/* Секция информация */
-.info-posts-container{
-    position: relative;
-}
-.info-posts-container:first-of-type{
-    margin-bottom: 25px;
-}
-.info-posts-container p{
-    margin-bottom: 0;
-    font-size: 24px;
-    color: #fff;
-    line-height: 36px;
-}
-.info-posts-container p span{
-    display: block;
-    text-align: center;
-    color: #fff;
-    font-weight: bold;
 }
 
 /* Секция фишка */

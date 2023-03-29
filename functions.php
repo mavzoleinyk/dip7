@@ -76,6 +76,17 @@ function si_section_action( $attr ){
   </section>';
 }
 
+// Нумерация в пагинации для Description в плагин Yoast
+add_filter('wpseo_metadesc', 'add_page_number_to_description');
+function add_page_number_to_description($description) {
+    if (is_paged()) {
+        global $wp_query;
+        $paged = $wp_query->query_vars['paged'];
+        $description .= ' - Страница ' . $paged;
+    }
+    return $description;
+}
+
 
 /**
  * Изменяет хлебные крошки Yoast.
